@@ -4,3 +4,4 @@ Project sederhana untuk mempermudah pekerjaan sederhana
 2. Menggunakan Net Framework 4.6
 3. UI dengan Guna Framework
 4. Dibutuhkan Barcode Scanner untuk memindai barcode pada kartu KIP
+5. Download KIP-Scanner.zip untuk langsung install aplikasi
